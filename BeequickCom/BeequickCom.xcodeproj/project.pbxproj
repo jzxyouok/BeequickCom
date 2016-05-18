@@ -665,7 +665,7 @@
 		84423E1C1CEB1A2900A233FA /* UIWindow+Hierarchy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+Hierarchy.h"; sourceTree = "<group>"; };
 		84423E1D1CEB1A2900A233FA /* UIWindow+Hierarchy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+Hierarchy.m"; sourceTree = "<group>"; };
 		8461FEA51CEC5A0600D51FEE /* Theme.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Theme.h; sourceTree = "<group>"; };
-		8461FEAA1CEC5DD700D51FEE /* BeequickCom-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BeequickCom-Prefix.pch"; sourceTree = "<group>"; };
+		8461FEAB1CEC5EC400D51FEE /* BeequickCom-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BeequickCom-Prefix.pch"; sourceTree = "<group>"; };
 		84DFC5111CEB0E8D0050FD46 /* BeequickCom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeequickCom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84DFC5151CEB0E8D0050FD46 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		84DFC5171CEB0E8D0050FD46 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -1760,7 +1760,6 @@
 		84DFC5131CEB0E8D0050FD46 /* BeequickCom */ = {
 			isa = PBXGroup;
 			children = (
-				8461FEAA1CEC5DD700D51FEE /* BeequickCom-Prefix.pch */,
 				84423C1E1CEB142000A233FA /* Class */,
 				84DFC5171CEB0E8D0050FD46 /* AppDelegate.h */,
 				84DFC5181CEB0E8D0050FD46 /* AppDelegate.m */,
@@ -1770,6 +1769,7 @@
 				84DFC5201CEB0E8D0050FD46 /* Assets.xcassets */,
 				84DFC5251CEB0E8D0050FD46 /* Info.plist */,
 				84DFC5141CEB0E8D0050FD46 /* Supporting Files */,
+				8461FEAB1CEC5EC400D51FEE /* BeequickCom-Prefix.pch */,
 			);
 			path = BeequickCom;
 			sourceTree = "<group>";
