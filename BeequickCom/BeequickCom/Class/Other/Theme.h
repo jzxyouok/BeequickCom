@@ -7,12 +7,12 @@
 //
 
 
+
 #ifndef Theme_h
 #define Theme_h
 
-#pragma mark - 全局常用属性
-
-static
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 
 

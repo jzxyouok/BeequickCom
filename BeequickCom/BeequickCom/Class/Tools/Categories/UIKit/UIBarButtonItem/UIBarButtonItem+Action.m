@@ -14,10 +14,10 @@ char * const UIBarButtonItemActionBlock = "UIBarButtonItemActionBlock";
 
 - (void)performActionBlock {
     
-    dispatch_block_t block = self.actionBlock;
+//    dispatch_block_t block = self.actionBlock;
     
-    if (block)
-        block();
+    if (self.actionBlock)
+        self.actionBlock();
     
 }
 
